@@ -6,3 +6,4 @@ installzsh:
 clean:
 	mv ~/.zshrc.bak.pulsemods ~/.zshrc
 
+

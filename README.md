@@ -4,7 +4,9 @@ Tiny little pulseaudio mod for adding a null sink. Useful for streaming games on
 ## Installation
 Run
 ```bash
-make installzsh
+chmod +x setup_pulse.sh
+chmod +x unload_pulse.sh
+make installzsh default_sink=alsa_output.pci-0000_00_1f.3.analog-stereo
 ```
 
 ## Uninstall

@@ -2,12 +2,14 @@
 Tiny little pulseaudio mod for adding a null sink. Useful for streaming games on linux.
 
 ## Installation
-Run ```bash
+Run
+```bash
 make installzsh
 ```
 
 ## Uninstall
-Run ```bash
+Run
+```bash
 make clean
 ```
 

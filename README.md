@@ -24,6 +24,8 @@ Remove the null sink
 ```bash
 prevert
 ```
+## Enabling or Reverting the null sink while using it or the combined sink in pavu control can crash pulse audio.
+## This will fix itself on a reboot, or you can just re-enable with psetup.
 
 ## Examples
 
